@@ -52,7 +52,7 @@ echo "|  Dark Yt__|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |      |"
+echo "    |      | Pedrobot |      |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -71,14 +71,14 @@ echo "Por favor espere um momento....."
 sleep 4
 clear
 sleep 2
-echo "          $merah   instalando o darkbot"
+echo "          $merah   instalando o peeedrobot"
 sleep 2
 cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https
-cd kp
+git clone https://github.com/PeuXllll/Pedro-2727
+cd Pedro-2727
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
