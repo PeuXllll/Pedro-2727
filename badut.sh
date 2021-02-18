@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|  Peedro Yt__|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |    |"
+echo "    |      | Peedrobot |    |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -74,7 +74,7 @@ sleep 2
 echo "          $merah   instalando o segundo login"
 sleep 2
 git clone https://github.com/PeuXllll/Pedro-2727
-cd darkbot3.0
+cd Pedro-2727
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
