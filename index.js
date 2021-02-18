@@ -101,7 +101,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:デニス\n' // full name
             + 'ORG:Owner Dns Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6285866295942:+62 858-6629-5942\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=5521997831879:+55 21 99783-1879\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 prefix = '!'
 blocked = []
