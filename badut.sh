@@ -73,9 +73,6 @@ clear
 sleep 2
 echo "          $merah   instalando o segundo login"
 sleep 2
-git clone https://github.com/Darkziinh/SITEX
-git clone https://github.com/Darkziinh/apikey
-git clone https://github.com/Darkziinh/testek
 cd darkbot3.0
 chmod +x git.sh
 echo "$verde"
